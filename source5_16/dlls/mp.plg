@@ -1,0 +1,86 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: mp - Win32 ReleaseGP2--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Tom\LOCALS~1\Temp\RSP3E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib wsock32.lib /nologo /subsystem:windows /dll /incremental:no /pdb:".\ReleaseGP2/shodan_gp2.pdb" /map:".\ReleaseGP2/shodan_gp2.map" /machine:I386 /def:".\shodan_gp2.def" /out:"c:\games\sierra\half-life\tfc\dlls\shodan_gp2.dll" /implib:".\ReleaseGP2/shodan_gp2.lib" 
+.\ReleaseGP2\3rdperson.obj
+.\ReleaseGP2\ablaster.obj
+.\ReleaseGP2\admincommands.obj
+.\ReleaseGP2\airstrike.obj
+.\ReleaseGP2\aogarg.obj
+.\ReleaseGP2\aohgrunt.obj
+.\ReleaseGP2\aomonsters.obj
+.\ReleaseGP2\basiccommands.obj
+.\ReleaseGP2\biggun.obj
+.\ReleaseGP2\buying.obj
+.\ReleaseGP2\c4.obj
+.\ReleaseGP2\cheatcommands.obj
+.\ReleaseGP2\CIniFile.obj
+.\ReleaseGP2\commands.obj
+.\ReleaseGP2\credits.obj
+.\ReleaseGP2\dll.obj
+.\ReleaseGP2\dualbar.obj
+.\ReleaseGP2\energyblast.obj
+.\ReleaseGP2\engine.obj
+.\ReleaseGP2\flashbang.obj
+.\ReleaseGP2\funcommands.obj
+.\ReleaseGP2\generalstuff.obj
+.\ReleaseGP2\grapple.obj
+.\ReleaseGP2\gundrop.obj
+.\ReleaseGP2\h_export.obj
+.\ReleaseGP2\helpsystem.obj
+.\ReleaseGP2\holoduke.obj
+.\ReleaseGP2\hwradar.obj
+.\ReleaseGP2\icons.obj
+.\ReleaseGP2\inisettings.obj
+.\ReleaseGP2\kickvote.obj
+.\ReleaseGP2\laserfence.obj
+.\ReleaseGP2\leveleditor.obj
+.\ReleaseGP2\lights.obj
+.\ReleaseGP2\linkfunc.obj
+.\ReleaseGP2\mapvoting.obj
+.\ReleaseGP2\mediflag.obj
+.\ReleaseGP2\messageflag.obj
+.\ReleaseGP2\modelprecache.obj
+.\ReleaseGP2\nightgame.obj
+.\ReleaseGP2\playercommands.obj
+.\ReleaseGP2\playerstuff.obj
+.\ReleaseGP2\plugin_api.obj
+.\ReleaseGP2\plugins.obj
+.\ReleaseGP2\proxmine.obj
+.\ReleaseGP2\ranks.obj
+.\ReleaseGP2\responsebot.obj
+.\ReleaseGP2\revive.obj
+.\ReleaseGP2\servercommands.obj
+.\ReleaseGP2\skins.obj
+.\ReleaseGP2\snarks.obj
+.\ReleaseGP2\stealth.obj
+.\ReleaseGP2\superflame.obj
+.\ReleaseGP2\tazar.obj
+.\ReleaseGP2\teleporters.obj
+.\ReleaseGP2\testentity.obj
+.\ReleaseGP2\trainstuff.obj
+.\ReleaseGP2\tripmine.obj
+.\ReleaseGP2\util.obj
+.\ReleaseGP2\vampirism.obj
+.\ReleaseGP2\world.obj
+.\ReleaseGP2\versionres.res
+]
+Creating command line "link.exe @C:\DOCUME~1\Tom\LOCALS~1\Temp\RSP3E.tmp"
+<h3>Output Window</h3>
+Linking...
+   Creating library .\ReleaseGP2/shodan_gp2.lib and object .\ReleaseGP2/shodan_gp2.exp
+
+
+
+<h3>Results</h3>
+shodan_gp2.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

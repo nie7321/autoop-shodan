@@ -1,0 +1,5 @@
+LIBRARY shodan_gp2
+EXPORTS
+	GiveFnptrsToDll			@1
+SECTIONS
+	.data READ WRITE

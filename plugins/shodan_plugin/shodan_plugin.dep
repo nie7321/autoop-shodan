@@ -1,0 +1,11 @@
+# Microsoft Developer Studio Generated Dependency File, included by shodan_plugin.mak
+
+.\plugin_main.cpp : \
+	".\plugin_api.h"\
+	".\plugin_main.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
